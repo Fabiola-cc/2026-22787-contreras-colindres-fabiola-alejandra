@@ -1,4 +1,4 @@
-# QRisk — Backend de análisis de URLs extraídas de códigos QR
+**Desarrollo de un prototipo de aplicación móvil de análisis automatizado de URLs extraídos de códigos QR mediante análisis aislado: Backend de análisis avanzado de URLs mediante scoring heurístico, sandboxing dinámico y browser isolation en infraestructura cloud**
 
 Trabajo de graduación · Universidad del Valle de Guatemala (UVG)
 
