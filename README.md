@@ -306,8 +306,8 @@ El video de demostración está disponible en [`demo/demo.mp4`](demo/demo.mp4).
 | --------------------------------- | --------------------------------------------------------------------- |
 | Informe final                     | [`docs/informe_final.pdf`](docs/informe_final.pdf)                   |
 | Consentimiento firmado            | [`docs/consentimiento_firmado.pdf`](docs/consentimiento_firmado.pdf) |
-| Contrato de la API                | [`src/qrisk-endpoint-doc.md`](Documentación/qrisk-endpoint-doc.md)  |
-| Plantilla de variables de entorno | [`.env.example`](.env.example)                                       |
+| Contrato de la API                | [`src/qrisk-endpoint-doc.md`](src/qrisk-endpoint-doc.md)             |
+| Plantilla de variables de entorno | [`src/.env.example`](src/.env.example)                               |
 
 ## Autor
 
