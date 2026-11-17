@@ -56,7 +56,7 @@ Funcionalidades adicionales: caché de resultados por URL (7 días, solo para `S
 ## Estructura del repositorio
 
 ```
-.
+2026-22787-contreras-colindres-fabiola-alejandra
 ├── src/
 │   ├── DB/
 │   │   └── base.sql                  # Esquema de la base de datos
@@ -73,6 +73,7 @@ Funcionalidades adicionales: caché de resultados por URL (7 días, solo para `S
 │   │   ├── normalizarUrl.mjs
 │   │   └── package.json
 │   ├── Testing/                      # Scripts de prueba y medición
+│   ├── .env.example                      # Plantilla de variables de entorno
 │   └── qrisk-endpoint-doc.md         # Contrato de la API
 ├── capturas/                         # Capturas de pantalla
 ├── demo/
@@ -80,7 +81,6 @@ Funcionalidades adicionales: caché de resultados por URL (7 días, solo para `S
 ├── docs/
 │   ├── informe_final.pdf
 │   └── consentimiento_firmado.pdf
-├── .env.example                      # Plantilla de variables de entorno
 └── README.md
 ```
 
